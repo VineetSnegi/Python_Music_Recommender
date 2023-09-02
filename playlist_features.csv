@@ -1,0 +1,51 @@
+,Name,Album,Artist,Release_Date,Length,Popularity,Acousticness,Danceability,Energy,Instrumentness,Liveness,Loudness,Speechness,Tempo,Time_Signature
+0,"What Jhumka ? (From ""Rocky Aur Rani Kii Prem Kahaani"")","What Jhumka ? (From ""Rocky Aur Rani Kii Prem Kahaani"")",Various Artists,2023-07-12,213611,64,0.235,0.821,0.823,0.0,0.207,-5.455,0.1,107.953,4
+1,"Zinda Banda (From ""Jawan"")","Zinda Banda (From ""Jawan"")",Anirudh Ravichander,2023-07-31,264000,72,0.00785,0.613,0.881,2.91e-06,0.155,-5.974,0.249,149.978,4
+2,Mahiye Jinna Sohna,Mahiye Jinna Sohna,Darshan Raval,2023-06-22,181250,86,0.736,0.567,0.54,3.17e-05,0.164,-5.754,0.0406,92.027,4
+3,"Janiye (from the Netflix Film ""Chor Nikal Ke Bhaga"")","Janiye (from the Netflix Film ""Chor Nikal Ke Bhaga"")",Vishal Mishra,2023-03-17,223390,80,0.44,0.578,0.444,0.0,0.146,-11.447,0.0644,76.032,4
+4,Tere Vaaste,Zara Hatke Zara Bachke (Original Motion Picture Soundtrack),Sachin-Jigar,2023-05-26,189136,35,0.315,0.762,0.717,1.87e-05,0.0914,-8.316,0.0372,109.996,4
+5,"Tum Kya Mile (From ""Rocky Aur Rani Kii Prem Kahaani"")","Tum Kya Mile (From ""Rocky Aur Rani Kii Prem Kahaani"")",Various Artists,2023-06-28,277500,64,0.586,0.271,0.726,0.0,0.353,-6.504,0.0527,87.425,4
+6,Malang Sajna,Malang Sajna,Sachet Tandon,2022-12-19,161041,84,0.232,0.739,0.716,0.0,0.33,-4.964,0.037,113.943,4
+7,"Tumhe Kitna Pyaar Karte (From ""Bawaal"")","Tumhe Kitna Pyaar Karte (From ""Bawaal"")",Mithoon,2023-07-07,305232,79,0.924,0.602,0.374,7.53e-06,0.084,-9.849,0.0328,101.855,4
+8,"Phir Aur Kya Chahiye (From ""Zara Hatke Zara Bachke"")","Phir Aur Kya Chahiye (From ""Zara Hatke Zara Bachke"") - Single",Sachin-Jigar,2023-05-16,266075,68,0.531,0.556,0.552,0.0,0.121,-5.875,0.0373,100.051,4
+9,Jhoome Jo Pathaan,Pathaan,Vishal-Shekhar,2022-12-22,208164,80,0.0964,0.817,0.738,0.0,0.331,-7.639,0.0748,104.964,4
+10,"Pyaar Hota Kayi Baar Hai (From ""Tu Jhoothi Main Makkaar"")","Pyaar Hota Kayi Baar Hai (From ""Tu Jhoothi Main Makkaar"")",Pritam,2023-02-10,216270,79,0.138,0.772,0.767,0.0,0.557,-4.792,0.0381,122.024,4
+11,Heeriye (feat. Arijit Singh),Heeriye (feat. Arijit Singh),Jasleen Royal,2023-07-25,194857,76,0.516,0.728,0.494,0.00384,0.0759,-9.628,0.0256,105.007,4
+12,Zihaal e Miskin,Zihaal e Miskin,Javed-Mohsin,2023-05-25,243953,81,0.259,0.581,0.632,0.0,0.0903,-7.166,0.0331,128.844,4
+13,Kya Loge Tum,Kya Loge Tum,B Praak,2023-05-15,233684,79,0.189,0.69,0.738,0.0,0.109,-4.046,0.0533,113.824,3
+14,"Ve Kamleya (From ""Rocky Aur Rani Kii Prem Kahaani"")","Ve Kamleya (From ""Rocky Aur Rani Kii Prem Kahaani"")",Various Artists,2023-07-18,246988,53,0.81,0.468,0.658,0.0333,0.12,-7.6,0.0668,87.607,4
+15,"O Bedardeya (From ""Tu Jhoothi Main Makkaar"")","O Bedardeya (From ""Tu Jhoothi Main Makkaar"")",Pritam,2023-03-04,313051,83,0.794,0.582,0.418,0.0,0.109,-8.701,0.0288,112.909,4
+16,Yaar Ka Sataya Hua Hai,Yaar Ka Sataya Hua Hai,B Praak,2023-07-03,267692,78,0.271,0.728,0.734,0.0,0.0788,-4.252,0.0449,130.014,4
+17,Lo Aayi Barsaat,Lo Aayi Barsaat,Darshan Raval,2023-07-18,222600,74,0.254,0.31,0.675,7.03e-06,0.086,-6.341,0.057,98.958,4
+18,"Naseeb Se (From ""Satyaprem Ki Katha"")","Naseeb Se (From ""Satyaprem Ki Katha"")",Payal Dev,2023-05-27,184312,78,0.556,0.557,0.599,1.22e-06,0.103,-6.309,0.0447,149.785,4
+19,Maan Meri Jaan,Champagne Talk,King,2022-10-12,194653,85,0.354,0.698,0.505,0.0,0.0995,-8.242,0.0356,95.868,4
+20,"Besharam Rang (From ""Pathaan"")","Besharam Rang (From ""Pathaan"")",Vishal-Shekhar,2022-12-12,258472,79,0.0587,0.773,0.795,0.00237,0.154,-5.537,0.0412,115.997,4
+21,Tere Pyaar Mein,"Tere Pyaar Mein (From ""Tu Jhoothi Main Makkaar"")",Pritam,2023-02-01,266094,82,0.111,0.679,0.748,0.0,0.183,-5.487,0.054,118.945,4
+22,Desperado,Desperado,Raghav,2023-04-12,247000,76,0.103,0.781,0.7,0.0,0.307,-5.295,0.0693,98.023,4
+23,Sanak,3:00 AM Sessions,Badshah,2023-02-07,115636,73,0.378,0.955,0.862,2.08e-05,0.0687,-4.509,0.277,110.058,4
+24,Deewani,Deewani,Sachet Tandon,2023-06-13,174149,73,0.476,0.559,0.762,0.0,0.0843,-4.337,0.032,108.012,4
+25,Rang Lageya,Rang Lageya - Single,Mohit Chauhan,2021-03-17,227962,57,0.504,0.651,0.503,0.0,0.469,-8.729,0.0261,108.014,4
+26,Lamhey,Lamhey,Anubha Bajaj,2023-02-24,148966,72,0.601,0.571,0.395,0.000247,0.255,-10.502,0.0372,173.998,4
+27,Kahani Suno 2.0,Kahani Suno 2.0,Kaifi Khalil,2022-05-31,173637,82,0.909,0.577,0.379,0.000586,0.0986,-13.235,0.0374,139.585,3
+28,Manjha,Manjha,Vishal Mishra,2020-03-17,191647,78,0.674,0.524,0.515,0.0,0.104,-7.478,0.0427,169.882,4
+29,"Manike (From ""Thank God"")","Manike (From ""Thank God"")",Yohani,2022-09-16,197473,79,0.522,0.551,0.578,0.0,0.073,-7.005,0.0732,106.772,4
+30,"Character Dheela 2.0 (From ""Shehzada"")","Character Dheela 2.0 (From ""Shehzada"")",Pritam,2023-02-09,157152,71,0.00332,0.841,0.863,9.64e-05,0.111,-4.73,0.0642,111.955,4
+31,"Main Khiladi - From ""Selfiee""","Main Khiladi (From ""Selfiee"")",Tanishk Bagchi,2023-02-01,187099,72,0.0799,0.766,0.875,9.53e-06,0.124,-3.195,0.0963,131.015,4
+32,Paisa Hai Toh,Farzi (Original Series Soundtrack),Sachin-Jigar,2023-01-26,188586,75,0.205,0.672,0.759,0.0,0.291,-5.22,0.0352,150.042,4
+33,"Show Me The Thumka (From ""Tu Jhoothi Main Makkaar"")","Show Me The Thumka (From ""Tu Jhoothi Main Makkaar"")",Pritam,2023-02-21,236100,71,0.607,0.841,0.87,8.83e-06,0.0734,-4.487,0.216,122.005,4
+34,"Kesariya (From ""Brahmastra"")","Kesariya (From ""Brahmastra"")",Pritam,2022-07-17,268164,81,0.572,0.577,0.574,0.0,0.1,-6.525,0.0278,94.009,4
+35,Tere Hawaale,Laal Singh Chaddha,Pritam,2022-08-05,346290,68,0.642,0.589,0.522,2.74e-05,0.0992,-10.649,0.0391,109.094,4
+36,Ranjha,Shershaah (Original Motion Picture Soundtrack),Various Artists,2021-08-16,228855,69,0.507,0.611,0.566,0.0,0.0971,-5.861,0.0388,82.984,4
+37,Tu Mile Dil Khile,Tu Mile Dil Khile - Single,Asees Kaur,2023-01-19,197392,53,0.305,0.736,0.634,4.75e-06,0.08,-4.935,0.0307,93.96,4
+38,Heer Ranjha,Heer Ranjha,Rito Riba,2022-10-18,223107,75,0.438,0.576,0.72,0.0,0.0814,-3.842,0.0409,140.031,4
+39,Chaand Baaliyan,Chaand Baaliyan,Aditya A,2020-03-28,103264,81,0.796,0.729,0.396,0.0,0.104,-8.98,0.0359,97.281,4
+40,"Raataan Lambiyan (From ""Shershaah"")","Raataan Lambiyan (From ""Shershaah"")",Tanishk Bagchi,2021-07-30,230292,78,0.615,0.72,0.63,0.0,0.108,-5.549,0.0413,81.009,4
+41,Asal Mein,Asal Mein,Darshan Raval,2020-02-18,224240,80,0.721,0.656,0.551,1.26e-06,0.0947,-6.43,0.0299,114.106,4
+42,"Rangisari (From ""Jugjugg Jeeyo"")","Rangisari (From ""Jugjugg Jeeyo"")",Kanishk Seth,2022-06-06,223271,72,0.27,0.524,0.758,0.13,0.106,-9.28,0.0538,140.012,4
+43,Jugnu,Jugnu,Badshah,2021-10-26,230400,74,0.03,0.716,0.803,0.0,0.0817,-5.14,0.0445,124.961,4
+44,Meri Jaan,Gangubai Kathiawadi (Original Motion Picture Soundtrack),Sanjay Leela Bhansali,2022-02-19,238103,57,0.629,0.745,0.432,0.0,0.351,-8.092,0.0406,104.018,4
+45,"Kusu Kusu (From ""Satyameva Jayate 2"")","Kusu Kusu (From ""Satyameva Jayate 2"")",Tanishk Bagchi,2021-11-10,195616,72,0.0137,0.742,0.911,0.00081,0.0593,-2.812,0.0572,101.0,4
+46,Bye,Bye,Aditya Bhardwaj,2022-12-02,174285,73,0.0433,0.571,0.814,8.73e-05,0.0762,-7.515,0.121,168.064,4
+47,Tu Aake Dekhle,The Carnival,King,2020-09-21,270000,69,0.515,0.77,0.84,0.00452,0.145,-4.022,0.107,96.012,4
+48,"Shayad (From ""Love Aaj Kal"")","Shayad (From ""Love Aaj Kal"")",Pritam,2020-01-22,247941,72,0.789,0.487,0.456,1.79e-06,0.141,-7.144,0.0319,136.088,4
+49,"Kaise Ab Kahein - From ""Gutar Gu""","Kaise Ab Kahein (From ""Gutar Gu"")",Gaurav Chatterji,2023-04-13,120000,71,0.891,0.443,0.396,0.0,0.0926,-11.071,0.037,89.114,4
