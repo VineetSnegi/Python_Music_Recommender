@@ -13,6 +13,8 @@ User can also find the info of their favourite artist.
 
 The recommendations are powered by Spotify's API and recommendation algorithms. User authorization with Spotify is handled via OAuth 2.0.
 
+You can read my blog to know the steps I implemented to build this project on [Hasnode]().
+
 
 ## License
 
