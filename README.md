@@ -1,6 +1,6 @@
 # Music Recommendation System
 
-This project creates Music Recommendation Engine in Python using Spotify API and macine learning.
+This project creates Music Recommendation Engine in Python using Spotify API and machine learning.
 
 
 ## Overview
