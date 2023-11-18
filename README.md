@@ -14,6 +14,7 @@ User can also find the info of their favourite artist.
 The recommendations are powered by Spotify's API and recommendation algorithms. User authorization with Spotify is handled via OAuth 2.0.
 
 You can read my blog to know the steps I implemented to build this project on [Hashnode](https://vineetsnegi.hashnode.dev/series/python-project).
+
 Here lies my Streamlit Goodreads app! Check it out [here](https://music-recommendation-app.streamlit.app/).
 
 ![image](https://github.com/VineetSnegi/Python_Music_Recommender/assets/137212462/9481058a-bdf3-407d-88d4-f6269679f48d)
