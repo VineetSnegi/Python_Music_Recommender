@@ -23,7 +23,7 @@ You can also get it locally on your system by pulling the [docker image](https:/
 docker pull vineetsnegi/music_recommendation_app:latest
 ```
 
-Here lies my Streamlit Goodreads app! Check it out [here](https://music-recommendation-app.streamlit.app/).
+Here lies my Streamlit app! Check it out [here](https://music-recommendation-app.streamlit.app/).
 
 ![image](https://github.com/VineetSnegi/Python_Music_Recommender/assets/137212462/9481058a-bdf3-407d-88d4-f6269679f48d)
 
