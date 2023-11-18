@@ -15,11 +15,17 @@ The recommendations are powered by Spotify's API and recommendation algorithms. 
 
 You can read my blog to know the steps I implemented to build this project on [Hashnode](https://vineetsnegi.hashnode.dev/series/python-project).
 
+## How to get it?
+
+You can also get it locally on your system by pulling the [docker image](https://hub.docker.com/r/vineetsnegi/music_recommendation_app/tags) I uploaded.
+
+```bash
+docker pull vineetsnegi/music_recommendation_app:latest
+```
+
 Here lies my Streamlit Goodreads app! Check it out [here](https://music-recommendation-app.streamlit.app/).
 
 ![image](https://github.com/VineetSnegi/Python_Music_Recommender/assets/137212462/9481058a-bdf3-407d-88d4-f6269679f48d)
-
-
 
 ## License
 
