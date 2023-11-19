@@ -17,7 +17,7 @@ You can read my blog to know the steps I implemented to build this project on [H
 
 ## How to get it?
 
-You can also get it locally on your system by pulling the [docker image](https://hub.docker.com/r/vineetsnegi/music_recommendation_app/tags) I uploaded.
+You can get it locally on your system by pulling the [docker image](https://hub.docker.com/r/vineetsnegi/music_recommendation_app/tags) I uploaded.
 
 ```bash
 docker pull vineetsnegi/music_recommendation_app:latest
